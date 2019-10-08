@@ -1,0 +1,3 @@
+[submodule "tf-custom-plugin"]
+	path = tf-custom-plugin
+	url = git@github.com:achuchulev/tf-custom-plugin.git
