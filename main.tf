@@ -1,4 +1,4 @@
-providers {
+provider {
   extip = ["1.0"]
 }
 
