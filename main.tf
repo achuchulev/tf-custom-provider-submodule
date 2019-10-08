@@ -1,5 +1,4 @@
-provider {
-  extip = ["1.0"]
+provider "extip" {
 }
 
 data "extip" "external_ip" {}
