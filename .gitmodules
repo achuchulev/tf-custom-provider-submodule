@@ -1,3 +1,3 @@
-[submodule "tf-plugin-extip"]
-	path = tf-plugin-extip
-	url = git@github.com:achuchulev/tf-plugin-extip.git
+[submodule "terraform.d/plugins/linux_amd64"]
+	path = terraform.d/plugins/linux_amd64
+	url = https://github.com/achuchulev/tf-plugin-extip.git
